@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wither_star_protection",
+  "version": "${version}",
+  "name": "Wither Star Protection",
+  "description": "Protects the dropped Wither Star",
+  "authors": ["creoii"],
+  "contact": {
+    "homepage": "https://greatbigworld.creoii.dev"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/witherstarprotection/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.creoii.greatbigworld.witherstarprotection.fabric.WitherStarProtectionFabric"
+    ],
+    "modmenu": [
+      "dev.creoii.greatbigworld.witherstarprotection.fabric.compat.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "witherstarprotection.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25"
+    ,"architectury": ">=22.0.4"
+    ,"fabric-api": "*"
+  }
+}

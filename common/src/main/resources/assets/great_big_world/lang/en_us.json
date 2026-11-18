@@ -1,0 +1,10 @@
+{
+  "title.wither_star_protection.config": "Wither Star Protection Configuration",
+  "wither_star_protection.config.category.general": "General",
+  "wither_star_protection.config.option.noGravity": "No Gravity",
+  "wither_star_protection.config.option.noGravity.tooltip": "Whether Nether Stars dropped from Withers have gravity",
+  "wither_star_protection.config.option.invulnerable": "Invulnerable",
+  "wither_star_protection.config.option.invulnerable.tooltip": "Whether Nether Stars dropped from Withers are invulnerable",
+  "wither_star_protection.config.option.neverDespawn": "Never Despawn",
+  "wither_star_protection.config.option.neverDespawn.tooltip": "Whether Nether Stars dropped from Withers should never despawn"
+}

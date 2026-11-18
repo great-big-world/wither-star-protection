@@ -1,0 +1,19 @@
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] Transforming from C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-dev.jar to C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-transformProductionFabric.jar
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] Transforming 4 transformer(s) from C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-dev.jar to C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-transformProductionFabric.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@5193ad15
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@70395010
+[Architectury Transformer DEBUG]  - AddRefmapName(enabled=dev.architectury.plugin.transformers.AddRefmapName$$Lambda/0x000000002f99f5f8@230c0984)
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@1b890511
+[Architectury Transformer DEBUG] Transforming from C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-dev.jar to C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-transformProductionFabric.jar with 4 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/creoii/greatbigworld/witherstarprotection/mixin/WitherBossMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/creoii/greatbigworld/witherstarprotection/config/WitherStarProtectionConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/creoii/greatbigworld/witherstarprotection/config/WitherStarProtectionConfig$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/creoii/greatbigworld/witherstarprotection/config/ModMenuConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/creoii/greatbigworld/witherstarprotection/WitherStarProtection with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\jackr\Documents\Projects\Mods\pack\wither-star-protection\common\build\libs\common-transformProductionFabric.jar
+[Architectury Transformer] Transformed jar with 4 transformer(s) in 16.31 ms

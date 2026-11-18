@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "wither_star_protection"
+version = "${version}"
+displayName = "Wither Star Protection"
+authors = "creoii"
+description = '''
+Protects the dropped Wither Star
+'''
+displayURL="https://greatbigworld.creoii.dev"
+#iconFile = ""
+
+[[dependencies.wither_star_protection]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.wither_star_protection]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "witherstarprotection.mixins.json"
